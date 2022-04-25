@@ -1,4 +1,4 @@
-package com.tomgregory;
+package project.architecture.ThemeParkApplication;
 
 import com.tomgregory.entity.ThemeParkRide;
 import com.tomgregory.repository.ThemeParkRideRepository;
