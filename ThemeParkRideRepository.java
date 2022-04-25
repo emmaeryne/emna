@@ -1,6 +1,6 @@
-package com.tomgregory.repository;
+package project.architecture.ThemeParkApplication.repository;
 
-import com.tomgregory.entity.ThemeParkRide;
+import project.architecture.ThemeParkApplication.entity.ThemeParkRide;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
