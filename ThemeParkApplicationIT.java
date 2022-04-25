@@ -1,4 +1,4 @@
-package com.tomgregory;
+package project.architecture.ThemeParkApplication;
 
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
 
