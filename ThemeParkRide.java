@@ -1,4 +1,4 @@
-package com.tomgregory.entity;
+package project.architecture.ThemeParkApplication.entity;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;
