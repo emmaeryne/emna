@@ -1,7 +1,7 @@
-package project.architecture.ThemeParkApplication;
+package project.architecture.repository;
 
-import com.tomgregory.entity.ThemeParkRide;
-import com.tomgregory.repository.ThemeParkRideRepository;
+import project.architecture.entity.ThemeParkRide;
+import project.architecture.repository.ThemeParkRideRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
